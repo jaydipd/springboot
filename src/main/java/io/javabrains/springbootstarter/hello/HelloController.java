@@ -8,7 +8,7 @@ public class HelloController {
 
 	@RequestMapping("/hello")
 	public String sayHi() {
-		return "This is an Hello World program programm";
+		return "jaydip";
 	}
 
 }
