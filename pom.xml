@@ -4,8 +4,7 @@
 	<groupId>com.java.springboot</groupId>
 	<artifactId>springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>My Test Spring Boot</name>
-
+	<name>My Test Spring Boot1</name>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
