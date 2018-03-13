@@ -1,4 +1,4 @@
-package io.javabrains.springbootstarter.hello;
+spackage io.javabrains.springbootstarter.hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -8,7 +8,7 @@ public class HelloController {
 
 	@RequestMapping("/hello")
 	public String sayHi() {
-		return "jaydip";
+		return "this is java programme";
 	}
 
 }
