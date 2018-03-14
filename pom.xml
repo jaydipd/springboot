@@ -12,9 +12,6 @@
 		<version>1.4.2.RELEASE</version>
 		<relativePath />
 	</parent>
-
-
-
 <dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
