@@ -27,16 +27,4 @@
 <properties>
 <java.version>1.8</java.version>
 </properties>
-<build>
-  <pluginManagement>
-    <plugins>
-      <plugin>
-    <groupId>org.codehaus.mojo</groupId>
-    <artifactId>sonar-maven-plugin</artifactId>
-    <version>3.0.2</version>
-</plugin>
-    </plugins>
-  </pluginManagement>
-</build>
-
 </project>
